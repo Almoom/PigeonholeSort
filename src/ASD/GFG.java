@@ -1,10 +1,8 @@
 package ASD;
 
-import java.lang.*;
-import java.util.*;
+import java.util.Arrays;
 
-public class Main {
-
+public class GFG {
     public static void main(String[] args) {
         GFG sort = new GFG();
         int[] arr = {8, 3, 2, 7, 4, 6, 8};
